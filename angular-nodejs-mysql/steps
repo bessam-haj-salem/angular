@@ -1,0 +1,23 @@
+
+BACKEND:
+
+npm install -y
+
+npm install express mysql2 body-parser express-validator bcryptjs jsonwebtoken
+
+
+npm install -D nodemon
+
+change the text scripts in json file:
+"start": "nodemon index.js"
+
+
+
+FRONTEND:
+ng new posts --directory ./
+
+
+
+link now:
+https://www.youtube.com/watch?v=b-Q8ujh10Bc&list=PL9_OU-1M9E_sjaUPfH3FIp8GtJrhJhTb8&index=4&ab_channel=JonPeppinck
+

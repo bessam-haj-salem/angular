@@ -1,0 +1,8 @@
+
+on index.ts:
+export * from './line-item';
+export * from './order.service';
+
+import {LineItem, OrderService } from "../core"
+
+
